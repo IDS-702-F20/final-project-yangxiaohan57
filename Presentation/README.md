@@ -1,3 +1,3 @@
-# Final-Project/Presentation
+# Project Presentation
 
-Place presentation files here
+Project presentation slides can be found in this directory.
